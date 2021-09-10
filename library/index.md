@@ -17,3 +17,8 @@
   - https://react-dnd.github.io/react-dnd/docs/overview
   - https://www.npmjs.com/package/react-dnd
   - React DnD is unlike most of the drag and drop libraries out there, and it can be intimidating if you've never used it before. However, once you get a taste of a few concepts at the heart of its design, it starts to make sense. I suggest you read about these concepts before the rest of the docs.
+
+### 5. react-slick
+  - https://react-slick.neostack.com/
+  - https://www.npmjs.com/package/react-slick
+  - This library is the port of jQuery slick library.
