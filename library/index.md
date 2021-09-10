@@ -12,3 +12,8 @@
   - https://github.com/atlassian/react-beautiful-dnd#readme
   - https://www.npmjs.com/package/react-beautiful-dnd
   - Beautiful and accessible drag and drop for lists with React
+
+### 4. react-dnd
+  - https://react-dnd.github.io/react-dnd/docs/overview
+  - https://www.npmjs.com/package/react-dnd
+  - React DnD is unlike most of the drag and drop libraries out there, and it can be intimidating if you've never used it before. However, once you get a taste of a few concepts at the heart of its design, it starts to make sense. I suggest you read about these concepts before the rest of the docs.
