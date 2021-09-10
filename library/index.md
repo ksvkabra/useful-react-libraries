@@ -22,3 +22,8 @@
   - https://react-slick.neostack.com/
   - https://www.npmjs.com/package/react-slick
   - This library is the port of jQuery slick library.
+
+### 6. react-select
+  - https://react-select.com/
+  - https://www.npmjs.com/package/react-select
+  - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support.
